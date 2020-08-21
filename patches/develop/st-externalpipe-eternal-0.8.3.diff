@@ -1,6 +1,6 @@
 # Description
 # When using the scrollback patch, you can apply this patch ontop in order to
-# use externalpipe onto the entire terminal history:
+# use externalpipe onto the entire terminal history
 
 From 2228468a6db1e648c69849860d30867c0e77650e Mon Sep 17 00:00:00 2001
 From: AtomToast <reg-2@t-online.de>
