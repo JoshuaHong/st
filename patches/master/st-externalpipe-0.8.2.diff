@@ -1,5 +1,6 @@
 # Description
 # Reading and writing st's screen through a pipe.
+#
 # Example
 # config.h example, binding TERMMOD + U to extract all visible URLs and present
 # dmenu to select and open one:
